@@ -4,4 +4,4 @@ Discussing a distributed CI system for the future.
 
 Inspired by [nodejs/build#257](https://github.com/nodejs/build/issues/257).
 
-[Work in progress design document](./Design_Doc.md)
+**This project is abandoned.**
